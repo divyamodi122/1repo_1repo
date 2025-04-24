@@ -1,0 +1,18 @@
+## python    #user friendly language
+high level vs low level        #easier to learn or more similer to human language and closer to machine code
+interpeter vs compiler    #translate code line by line as programs run and translate this code before executing it
+dynamic typing     #type of variable is determined only during runtime
+variables -- container 
+rules -- 1==> letter , character and _ start hoga 
+        2--> number se start nahi hoga lakine aap number bech end me 
+        3 - A-Z, a-z , 0-9, _
+        4 -- case sensitive --- Age , age , AGE --- upper case and lowweer case ko diff treat karta hai 
+        5 - variable ka naam koi bhi  keyword nahi hona chaiye 
+        # keyword  #words with specific function that are reserved and cannot be changed
+           #keyword-- and ,as,assert,break,class,continue etc
+        data type -- integer,boolean(true,false),float -- decimal number , complex, string  --- primitive data types
+                    non - primitive types -  list , tuple, set , dictionary 
+find and index method    #
+
+
+
